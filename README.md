@@ -1,18 +1,23 @@
-# 远程输入法 - Remoboard
+# 远程输入法 - *Remoboard*
 
-远程输入法 是一个输入法应用，可以实现使用电脑给手机打字，让手机打字更快。使用远程输入法时，手机端会显示一个网址，在电脑浏览器中访问这个网址，即可开始输入。浏览器中输入的文字发送到手机，从而实现电脑给手机打字。
+## Translated fork by [timmytimj](https://github.com/timmytimj) - offical source (archive) upstream
 
-- 「最美应用」https://mp.weixin.qq.com/s/PLWkVuEdJCk6cLGEQVZDbw
-- 「少数派」https://sspai.com/post/57008
+Remoboard is an input method application that allows you to use your computer to type on your mobile phone, making mobile typing faster. When using Remoboard, a web address will be displayed on your mobile phone, and you can start typing by visiting this URL in a computer browser. The text entered in the browser is sent to the mobile phone, allowing the computer to type on the mobile phone.
 
----
-
-1. 由于这个软件已经满足了设计之初的需求，所以暂时没有计划继续优化完善了。
-2. 目前iOS和Android都已经免费下载使用。谢谢大家一直以来的支持。
-3. 由于网络环境复杂，总会存在少数环境不能连接的问题。Web连接模式相对稳定。实验室中的功能暂时没有计划更新和完善了，不建议使用了。
+- Review ["The most beautiful application"](https://mp.weixin.qq.com/s/PLWkVuEdJCk6cLGEQVZDbw)
+- SSPAI [Article](https://sspai.com/post/57008)
 
 ---
 
-欢迎关注微信订阅号「首先很有趣」，我会继续不断尝试实现更多的想法。
+1. Since this software has met the needs of the original design, there are no plans to continue to continue development, at present.
+
+2. Currently, Remoboard is available for iOS and Android and is free to download and use. Thank you for your continued support.
+
+3. Please note that due to the complexity of networking environments, there may be some cases where it is not possible to use the app. The web connection mode is relatively stable, but the functions in the lab are not currently being updated or improved and are not recommended for use.
+
+---
+
+Join the WeChat subscription account "First of all is fun." We will continue to try to implement more ideas.
+>Note: this is a Chinese language group.
 
 ![](media/15969904617341.jpg)
